@@ -1,11 +1,12 @@
 repo_name: mucyoalexaxel/lexical-editor
 report_id: 37c1a51027e40a16e4e10a6d281c038d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-27T13:53:11+00:00'
+timestamp: '2024-01-05T08:33:17+00:00'
 requested_by: trueadm
 provider: github
 branch: main
-detected_tools_count: 91
+detected_tools_count: 93
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -56,7 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: packages/playwright-core/src/server/android/driver/app/build.gradle
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/src/server/android/driver/app/build.gradle
   detection_source: packages/playwright-core/src/server/android/driver/app/build.gradle
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -69,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package.json
   detection_source: package.json
   last_updated_by: Gerard Rovira
   last_updated_on: 2022-06-29 14:39:18.000000000 Z
@@ -82,8 +88,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
-  detection_source: packages/lexical-website-new/package.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-05-07 12:02:20.000000000 Z
 - name: ws
@@ -95,6 +101,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/bundles/utils/package.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -108,8 +115,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: package-lock.json
-  detection_source: packages/lexical-website-new/babel.config.js
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: babel.config.js
   last_updated_by: Dominic Gannaway
   last_updated_on: 2021-02-16 19:24:26.000000000 Z
 - name: Closure Compiler
@@ -121,6 +128,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Optimizers
   image_url: https://img.stackshare.io/service/3794/wBjKn0ol.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 14:59:06.000000000 Z
@@ -133,6 +141,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2020-10-22 20:03:15.000000000 Z
@@ -144,6 +153,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -153,6 +163,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/.github/workflows/test.yml
   detection_source: ".github/workflows/test.yml"
   last_updated_by: Gerard Rovira
   last_updated_on: 2022-06-20 10:04:23.000000000 Z
@@ -165,7 +176,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: packages/playwright-core/src/server/android/driver/gradlew.bat
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/src/server/android/driver/app/build.gradle
+  detection_source: packages/playwright-core/src/server/android/driver/app/build.gradle
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
 - name: Jest
@@ -178,7 +190,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2020-10-22 20:03:15.000000000 Z
@@ -192,8 +204,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package-lock.json
-  detection_source: packages/lexical-playground/package.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: package.json
   last_updated_by: Gerard Rovira
   last_updated_on: 2022-06-29 14:39:18.000000000 Z
 - name: Vite
@@ -205,7 +217,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
-  detection_source: packages/lexical-playground/package.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/lexical-devtools/package.json
+  detection_source: packages/lexical-devtools/package.json
   last_updated_by: Will
   last_updated_on: 2022-06-13 09:08:35.000000000 Z
 - name: Webpack
@@ -218,7 +231,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-website-new/package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-03-21 02:16:00.000000000 Z
@@ -230,6 +243,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2020-10-22 20:03:15.000000000 Z
@@ -241,6 +255,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-06-14 09:42:43.000000000 Z
@@ -253,7 +268,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: packages/playwright-core/src/server/android/driver/app/build.gradle
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/src/server/android/driver/app/build.gradle
   detection_source: packages/playwright-core/src/server/android/driver/app/build.gradle
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -263,6 +278,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/lexical-devtools/src/devtools/index.html
   detection_source: packages/lexical-devtools/src/devtools/index.html
   last_updated_by: Will
   last_updated_on: 2022-07-06 15:09:44.000000000 Z
@@ -274,6 +290,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor
   detection_source: Repo Metadata
 - name: Prism
   description: An extensible syntax highlighter, built with modern web standards
@@ -285,7 +302,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-code/package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-05-09 19:58:31.000000000 Z
@@ -298,12 +315,14 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor
   detection_source: Repo Metadata
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2021-10-25 14:41:58.000000000 Z
@@ -312,6 +331,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-06-15 11:40:19.000000000 Z
@@ -325,7 +345,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16270/default_8b65a873fd3277d73483d6846fa38192391abf23.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Gerard Rovira
   last_updated_on: 2022-06-15 08:58:00.000000000 Z
@@ -339,7 +359,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-05-09 19:58:31.000000000 Z
@@ -353,7 +373,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
@@ -367,7 +387,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-website-new/package.json
   last_updated_by: Maksim Horbachevsky
   last_updated_on: 2022-03-25 20:42:03.000000000 Z
@@ -381,7 +401,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Gerard Rovira
   last_updated_on: 2022-06-29 14:39:18.000000000 Z
@@ -395,7 +415,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -409,7 +429,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: packages/playwright-core/bundles/utils/package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/bundles/utils/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -423,7 +443,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
@@ -437,7 +457,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17516/default_911633508f32a5d5016c37ab38144cd661ceb682.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-playground/package.json
   last_updated_by: 子瞻 Luci
   last_updated_on: 2022-07-02 00:13:40.000000000 Z
@@ -451,7 +471,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18274/default_7a7ed285fac4b842f0d8c3991804954d9db6b793.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -465,7 +485,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17630/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
-  detection_source_url: packages/playwright-core/bundles/utils/package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/bundles/utils/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -479,7 +499,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
@@ -493,8 +513,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package-lock.json
-  detection_source: packages/lexical-devtools/package.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
 - name: "@types/react-dom"
@@ -507,8 +527,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package-lock.json
-  detection_source: packages/lexical-devtools/package.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
 - name: "@types/rimraf"
@@ -521,7 +541,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16613/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
-  detection_source_url: packages/playwright-core/bundles/utils/package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/bundles/utils/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -535,7 +555,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16711/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -549,7 +569,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
@@ -563,7 +583,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
@@ -577,7 +597,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-06-15 11:40:19.000000000 Z
@@ -591,7 +611,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16609/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-website-new/package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-03-21 02:16:00.000000000 Z
@@ -606,7 +626,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17031/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -620,7 +640,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2021-06-16 12:30:06.000000000 Z
@@ -634,7 +654,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: packages/playwright-core/bundles/utils/package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/bundles/utils/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -648,7 +668,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -662,7 +682,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -676,7 +696,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -690,7 +710,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -704,7 +724,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -718,7 +738,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15988/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-06-15 11:40:19.000000000 Z
@@ -732,7 +752,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15940/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
@@ -746,7 +766,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -760,7 +780,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-06-15 11:40:19.000000000 Z
@@ -774,7 +794,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-06-15 11:40:19.000000000 Z
@@ -788,7 +808,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18756/default_18c539134b0dda955cff96464ccdbe4e0790a62a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -802,7 +822,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-06-15 11:40:19.000000000 Z
@@ -816,7 +836,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-06-15 11:40:19.000000000 Z
@@ -830,7 +850,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17488/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/zip/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -844,7 +864,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15957/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Gerard Rovira
   last_updated_on: 2022-06-15 08:58:00.000000000 Z
@@ -859,7 +879,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2021-11-29 12:08:26.000000000 Z
@@ -873,8 +893,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: package-lock.json
-  detection_source: packages/playwright-core/bundles/utils/package.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2021-10-25 14:41:58.000000000 Z
 - name: google-closure-compiler
@@ -887,7 +907,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17740/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -901,7 +921,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16649/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2021-10-25 14:41:58.000000000 Z
@@ -915,10 +935,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17334/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Dominic Gannaway
+  last_updated_on: 2021-10-25 14:41:58.000000000 Z
 - name: jest-environment-jsdom
   description: Delightful JavaScript Testing
   package_url: https://www.npmjs.com/jest-environment-jsdom
@@ -929,7 +963,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -943,10 +977,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18250/default_c6b51515d4a1dde78342d80e969e295cabf381ac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-playground/package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-05-24 13:15:39.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 11.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: John Flockton
+  last_updated_on: 2022-06-15 11:40:19.000000000 Z
 - name: lodash-es
   description: Lodash exported as ES modules
   package_url: https://www.npmjs.com/lodash-es
@@ -957,7 +1005,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16587/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-playground/package.json
   last_updated_by: 子瞻 Luci
   last_updated_on: 2022-07-02 00:13:40.000000000 Z
@@ -971,7 +1019,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16182/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -985,7 +1033,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -999,7 +1047,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2020-11-04 14:39:12.000000000 Z
@@ -1013,7 +1061,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -1027,7 +1075,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: yicrotkd
   last_updated_on: 2022-06-27 09:50:11.000000000 Z
@@ -1041,7 +1089,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17513/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
-  detection_source_url: packages/playwright-core/bundles/utils/package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/packages/playwright-core/bundles/utils/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -1055,7 +1103,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16351/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-code/package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-05-09 19:58:31.000000000 Z
@@ -1069,7 +1117,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16410/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -1083,8 +1131,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
-  detection_source: packages/lexical-website-new/package.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: packages/lexical-devtools/package.json
   last_updated_by: Will
   last_updated_on: 2022-06-16 07:37:58.000000000 Z
 - name: react-test-renderer
@@ -1097,7 +1145,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-07-03 18:00:08.000000000 Z
@@ -1111,7 +1159,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/utils/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
@@ -1125,7 +1173,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2020-10-22 20:03:15.000000000 Z
@@ -1140,7 +1188,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: John Flockton
   last_updated_on: 2022-05-09 19:58:31.000000000 Z
@@ -1154,7 +1202,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
@@ -1169,7 +1217,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17015/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/lexical-website-new/package.json
   last_updated_by: Acy Watson
   last_updated_on: 2022-08-18 03:33:40.000000000 Z
@@ -1183,7 +1231,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2021-11-30 01:47:45.000000000 Z
@@ -1196,8 +1244,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/npm/image.png
-  detection_source_url: package-lock.json
-  detection_source: packages/lexical-playground/package.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
+  detection_source: packages/lexical-devtools/package.json
   last_updated_by: Will
   last_updated_on: 2022-06-16 07:37:58.000000000 Z
   vulnerabilities:
@@ -1218,7 +1266,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18448/default_31e3dc8ee5066945286d4e7345d470ac3863ee5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/mucyoalexaxel/lexical-editor/blob/main/package-lock.json
   detection_source: packages/playwright-core/bundles/zip/package.json
   last_updated_by: Dominic Gannaway
   last_updated_on: 2022-05-18 07:03:14.000000000 Z
