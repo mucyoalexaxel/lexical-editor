@@ -64,7 +64,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mucyoalexaxel/lexical-editor](https://github.com/mucyoalexaxel/lexical-editor)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|91<br/>Tools used|11/27/23 <br/>Report generated|
+|93<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -312,9 +312,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (64)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (66)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (64)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (66)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -361,8 +361,10 @@ Full tech stack [here](/techstack.md)
 |[google-closure-compiler](https://www.npmjs.com/google-closure-compiler)|v20210808.0.0|07/03/22|Acy Watson |Apache-2.0|N/A|
 |[gzip-size](https://www.npmjs.com/gzip-size)|v6.0.0|10/25/21|Dominic Gannaway |MIT|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.1|05/18/22|Dominic Gannaway |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|10/25/21|Dominic Gannaway |MIT|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v28.1.2|07/03/22|Acy Watson |MIT|N/A|
 |[katex](https://www.npmjs.com/katex)|v0.15.6|05/24/22|John Flockton |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v11.2.6|06/15/22|John Flockton |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|07/02/22|子瞻 Luci |MIT|N/A|
 |[mime](https://www.npmjs.com/mime)|v1.6.0|05/18/22|Dominic Gannaway |MIT|N/A|
 |[minimatch](https://www.npmjs.com/minimatch)|v5.1.0|05/18/22|Dominic Gannaway |ISC|N/A|
