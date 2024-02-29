@@ -2,7 +2,7 @@ repo_name: mucyoalexaxel/lexical-editor
 report_id: 37c1a51027e40a16e4e10a6d281c038d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:33:17+00:00'
+timestamp: '2024-02-29T18:55:16+00:00'
 requested_by: trueadm
 provider: github
 branch: main
@@ -195,7 +195,7 @@ tools:
   last_updated_by: Dominic Gannaway
   last_updated_on: 2020-10-22 20:03:15.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
@@ -1249,6 +1249,13 @@ tools:
   last_updated_by: Will
   last_updated_on: 2022-06-16 07:37:58.000000000 Z
   vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 2.9.17
   - name: Vite Server Options (server.fs.deny) can be bypassed using double forward-slash
       (//)
     cve_id: CVE-2023-34092
